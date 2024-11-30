@@ -12,7 +12,7 @@ I am a FIDE Master (FM) chess player, and this project allows me to analyze my o
   - Game results (win, loss, draw)
   - Timestamps and durations
   - Opening names and ECO codes
-- **Collection Method**: Data will be retrieved programmatically using the Lichess API through the Python Berserk library.
+- **Collection Method**: Data will be retrieved programmatically using the Lichess API through the Python Berserk library and Lichess application as a text file
 
 # Project Idea
 Through this project, I aim to answer various questions and explore insights about my chess performance, including:
@@ -24,7 +24,6 @@ Through this project, I aim to answer various questions and explore insights abo
 - What is my average game length, and how does it affect my results?
 - How do my results compare when playing classical openings versus modern or unconventional ones?
 - Are there patterns in my wins or losses against specific player styles (e.g., aggressive, positional)?
-- What are my strongest and weakest phases of the game (opening, middlegame, endgame)?
 - Which opponents do I struggle against the most, and what strategies might help improve?
 - What is my performance trend over time—am I improving, plateauing, or declining?
 
