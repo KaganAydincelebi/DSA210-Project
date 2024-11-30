@@ -1,4 +1,10 @@
 # CS210-Project
+# Table of Contents
+1. [Motivation](#motivation)
+2. [Dataset](#dataset)
+3. [Project Idea](#project-idea)
+4. [Plan](#plan)
+5. [Tools](#tools)
 
 # Motivation
 I am a FIDE Master (FM) chess player, and this project allows me to analyze my own chess game history and gain insights into my performance. By leveraging data science techniques, I aim to uncover patterns, strengths, and areas of improvement in my gameplay.
