@@ -64,7 +64,8 @@ We will use the following tools and libraries to accomplish the goals of this pr
 - **Numpy**: For numerical computations.
 - **Jupyter Notebooks** (via Google Colab): For interactive analysis and sharing progress.
 - 
-
+# Closing Note
+Here is an image from my early chess achievements, showcasing my passion and dedication to the game from a young age.
 
 
 
