@@ -63,3 +63,4 @@ We will use the following tools and libraries to accomplish the goals of this pr
 - **Seaborn**: For more advanced and aesthetically pleasing visualizations.
 - **Numpy**: For numerical computations.
 - **Jupyter Notebooks** (via Google Colab): For interactive analysis and sharing progress.
+![unnamed](https://github.com/user-attachments/assets/abe6c35b-bc1a-4626-99f0-057255af045c)
